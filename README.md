@@ -1,7 +1,4 @@
+# Plinko With Scores
+In this project, you will have to practice and apply what you have learnt in the class and develop the Plinko Game with a Score Card.
 
-## Use basic p5.play-boilerplate
-Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFiles
-
-## Please refer to code notes for explanation.
-
-### Output Link : https://vishnupriya-whitehatjr.github.io/c33-PlinkoFinal/index.html
+### Output Link : https://demo-whj.github.io/Plinko-With-Scores/
